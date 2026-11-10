@@ -21,7 +21,6 @@ I'm especially interested in backend development, databases, and building clean 
 
 ### `$ currently`
 
-- Building backend and moderation workflows for **NSBM NewsDesk**.
 - Deepening my knowledge of **PHP, MySQL, and database-driven applications**.
 - Practising **Java, object-oriented programming, and problem solving**.
 - Exploring modern web development one project at a time.
@@ -32,12 +31,6 @@ I'm especially interested in backend development, databases, and building clean 
   <img src="https://skillicons.dev/icons?i=python,java,php,mysql,html,css,js,git,github,vscode,linux&theme=dark" alt="Python, Java, PHP, MySQL, HTML, CSS, JavaScript, Git, GitHub, VS Code and Linux" />
 </p>
 
-### `$ ls ./projects`
-
-| Project | What it is |
-| --- | --- |
-| **NSBM NewsDesk** | A campus news management system with article submissions, review and moderation workflows. I'm working on the backend and moderator features. *(Team project; repository is private.)* |
-| **Kathaa AI** | An academic project concept exploring assistive communication through speech-to-text, text-to-speech, AI suggestions and sign-language support. |
 
 ### `$ git stats`
 
